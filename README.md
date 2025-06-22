@@ -29,3 +29,7 @@ Initializing NTDLL_CONFIG and NT_API structures. Finding SSN of the syscalls and
 #### NtWaitForSingleObject
 
 ![6](/Media/6.png)
+
+#### Final results
+
+![7](/Media/7.png)
