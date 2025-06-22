@@ -8,7 +8,7 @@ HellsVectoredGate is an indirect syscall technique that combaines VEH (Vectored 
 
 Initializing NTDLL_CONFIG and NT_API structures. Finding SSN of the syscalls and random syscall instruction address:
 
-![1](/HellsVectoredGate/Media/1.png)
+![1](/Media/1.png)
 
 Memory allocation - NtAllocateVirtualMemory
 
